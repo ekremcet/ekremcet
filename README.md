@@ -1,6 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Content Provisioning part of ATHENA project https://athena.itec.aau.at/
-- For personal info visit ➡️ https://ekrcet.com/
+- visit ➡️ https://ekrcet.com/
 <!--
 **ekremcet/ekremcet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
