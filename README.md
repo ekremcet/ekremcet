@@ -1,8 +1,5 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ekrem
+Hi There 👋
 =============================================================================================================================
-
-Researcher and Builder
-----------------------
 
 I've been working as a researcher for the last five years. I did my master's in image denoising and my Ph.D. in video encoding with machine learning. I've published more than 15 papers, 3 patent applications, and I have one patent issued. Now I'm focusing on building products in my free time.
 
