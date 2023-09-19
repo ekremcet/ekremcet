@@ -1,9 +1,9 @@
 Hi There 👋
 =============================================================================================================================
 
-I've been working as a researcher for the last five years. I did my master's in image denoising and my Ph.D. in video encoding with machine learning. I've published more than 15 papers, 3 patent applications, and I have one patent issued. 
+I worked as a researcher for five years. I did my master's in image denoising and my Ph.D. in video encoding with machine learning. I've published more than 15 papers, 3 patent applications, and I have one patent issued. 
 
-Now I'm focusing on shipping products.
+Now I'm focusing on building.
 
 * 🌍  I'm based in Istanbul, Türkiye
 * 🖥️  See my portfolio at [My Website](http://ekrcet.com)
