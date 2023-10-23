@@ -5,9 +5,9 @@ I worked as a researcher for five years. I did my master's in image denoising an
 
 Now I'm focusing on building.
 
-* 🌍  I'm based in Istanbul, Türkiye
-* 🖥️  See my portfolio at [My Website](http://ekrcet.com)
-* ✉️  You can contact me at [ekrem@wite.tech](mailto:ekrem@wite.tech)
+* 🌍  Istanbul, Türkiye
+* 🖥️  Portfolio at [ekrcet.com](http://ekrcet.com)
+* 📧  Contact me at [ekrem@wite.tech](mailto:ekrem@wite.tech)
 
 ### Socials
 
