@@ -7,7 +7,7 @@ Now I'm focusing on building.
 
 * 🌍  Istanbul, Türkiye
 * 🖥️  Portfolio at [ekrcet.com](http://ekrcet.com)
-* 📧  Contact me at [ekrem@wite.tech](mailto:ekrem@wite.tech)
+* 📧  Contact me at [ekrem.cetinkaya@wite.com.tr](mailto:ekrem.cetinkaya@wite.com.tr)
 
 ### Socials
 
