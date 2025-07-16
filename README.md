@@ -8,7 +8,3 @@ Now I'm focusing on building.
 * 🌍  Istanbul, Türkiye
 * 🖥️  Portfolio at [ekrcet.com](http://ekrcet.com)
 * 📧  Contact me at [ekrem.cetinkaya@wite.com.tr](mailto:ekrem.cetinkaya@wite.com.tr)
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/ekremcet" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ekrcet" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/ekremcetinkaya_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
